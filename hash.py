@@ -8,3 +8,5 @@ def simple_hash(s, table_size=100):
 # Пример использования
 print(simple_hash('sobaka'))  # Пример вывода: 58
 print(simple_hash('sobaka', table_size=10))  # Пример вывода: 8
+
+
