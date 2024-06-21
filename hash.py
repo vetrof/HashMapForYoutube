@@ -5,8 +5,3 @@ def simple_hash(string):
         ascii_digit = ord(char)
         hash += ascii_digit
     return hash
-
-
-
-
-
